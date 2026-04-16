@@ -319,14 +319,14 @@ To enable Teams Adaptive Cards:
 
 ## References
 
-- [Translytical Task Flow Overview — MS Learn](https://learn.microsoft.com/en-us/power-bi/create-reports/translytical-task-flow-overview)
+### MS Learn Tutorials (used in this POC)
+- [Translytical Task Flow Overview](https://learn.microsoft.com/en-us/power-bi/create-reports/translytical-task-flow-overview)
+- [Tutorial 1: Create a Translytical Report (Write-back + Annotations)](https://learn.microsoft.com/en-us/power-bi/create-reports/translytical-task-flow-tutorial)
+- [Tutorial 2: Request and Update Status with Teams Notification](https://learn.microsoft.com/en-us/power-bi/create-reports/translytical-task-flow-tutorial-2)
+
+### Supporting Documentation
 - [Official UDF Pattern Gist — Sujata994](https://gist.github.com/Sujata994/c354ec8d0821e875e45c86f2bd1d5cc8)
-- [Fabric SQL Database — MS Learn](https://learn.microsoft.com/en-us/fabric/database/sql/overview)
-- [User Data Functions — MS Learn](https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/user-data-functions-overview)
-- [fn.FabricSqlConnection API](https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/user-data-functions-api-reference)
-
----
-
-## License
-
-MIT — for internal atQor POC use. Not for production without security review.
+- [Fabric SQL Database Overview](https://learn.microsoft.com/en-us/fabric/database/sql/overview)
+- [User Data Functions Overview](https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/user-data-functions-overview)
+- [User Data Functions API Reference (fn.FabricSqlConnection)](https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/user-data-functions-api-reference)
+- [Power BI Translytical Task Flow — Button Actions](https://learn.microsoft.com/en-us/power-bi/create-reports/translytical-task-flow-button-actions)
